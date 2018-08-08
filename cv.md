@@ -59,7 +59,8 @@ Storm Peak Lab Cloud Property Validation Experiment (STORMVEx) Steamboat Springs
 2007 Dr. James and Joann Albers memorial scholarship
 
 ### Recent Publications
-Hillman, B. R., R. T. Marchand, and T. P. Ackerman (2018), Sensitivities of simulated satellite views of clouds to subgrid-scale overlap and condensate heterogeneity, J. Geophys. Res. Atmos. (accepted).
+Hillman, B. R., R. T. Marchand, T. P. Ackerman (2018), Sensitivities of simulated satellite views of clouds to
+subgrid-scale overlap and condensate heterogeneity. Journal of Geophysical Research: Atmospheres, 123. [https://doi.org/10.1029/2017JD027680](https://doi.org/10.1029/2017JD027680).
 
 Hillman, B. R., R. T. Marchand, T. P. Ackerman, G. G. Mace, and S. Benson (2017), Assessing the accuracy of MISR and MISR-simulated cloud top heights using CloudSat- and CALIPSO-retrieved hydrometeor profiles, J. Geophys. Res. Atmos., 122, [doi:10.1002/2016JD025510](http://onlinelibrary.wiley.com/doi/10.1002/2016JD025510/full).
 
