@@ -1,7 +1,6 @@
 ## Benjamin R. Hillman
-PO Box 5800  
-Mail Stop 0734  
-Albuquerque, NM 87185-0734  
+Sandia National Laboratories  
+PO Box 5800, Albuquerque, NM 87185-1320  
 [bhillma@sandia.gov](mailto:bhillma@sandia.gov) // (425) 218-8086  
 
 ### Education
