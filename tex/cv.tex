@@ -1,0 +1,71 @@
+\documentclass[10pt]{article}
+\bibliographystyle{ieeetr} %{apalike}
+\usepackage{fullpage}
+\usepackage{url}
+
+\pagestyle{empty}
+
+% Customize section headings
+%\usepackage{sectsty}
+%\sectionfont{\rmfamily\mdseries\Large}
+%\subsectionfont{\rmfamily\bfseries\normalsize}
+
+% Don't indent paragraphs.
+\setlength\parindent{0em}
+\setlength\parskip{0.5em}
+
+% Make lists without bullets
+\newenvironment{itemize*}{
+   \begin{list}{}
+      { 
+         \setlength{\itemsep}{5pt}
+         \setlength{\parsep}{0pt}
+         \setlength{\topsep}{0pt}
+         \setlength{\leftmargin}{0em} 
+      } 
+} {
+   \end{list}
+}
+
+\begin{document}
+
+{\Large Benjamin R. Hillman} \\ 
+{Senior Member of Technical Staff} \\
+{Org 08931, Sandia National Laboratories, Albuquerque, New Mexico} \\
+{\url{https://orcid.org/0000-0002-9264-9872}} \\
+{\url{bhillma@sandia.gov} // (425) 218-8086}
+
+\section*{Professional Preparation}
+\begin{itemize*}
+    \item Ph.D., Atmospheric Sciences,
+    University of Washington, Seattle, WA,
+    June 2016
+    \item M.S., Atmospheric Sciences,
+    University of Washington, Seattle, WA,
+    2012
+    \item B.S., Physics and Mathematics \textit{Cum Laude},
+    Western Washington University, Bellingham, WA,
+    2008
+    \item A.S.,
+    Shoreline Community College, Seattle, WA,
+    2005
+\end{itemize*}
+
+\section*{Appointments and Positions}
+\begin{itemize*}
+    \item 2017 -- Present: Senior Member of Technical Staff, Sandia National Laboratories, Albuquerque, NM
+    \item 2016 -- 2017: Postdoctoral Appointee, Sandia National Laboratories, Albuquerque, NM
+    \item 2008 -- 2016: Graduate Research Associate, Department of Atmospheric Sciences, University of Washington, Seattle, WA
+\end{itemize*}
+
+\section*{Synergistic Activities}
+\begin{itemize}
+    \item Lead of the current SCREAM simulation campaign to produce the first decadal-scale simulation with a global storm resolving model at 3 km resolution.
+    %\item Primary developer and point of contact for the interface to the RRTMGP radiation code in E3SM and SCREAM.
+\end{itemize}
+
+%\section*{Publications}
+\renewcommand\refname{Selected publications}
+\nocite{*}
+\bibliography{works}
+\end{document}
