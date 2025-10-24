@@ -10,7 +10,11 @@ B.S., Physics and Mathematics *Cum Laude*, Western Washington University, Bellin
 A.S., Shoreline Community College, Seattle, WA, 2005  
 
 ### Research Experience
-Research Scientist, Department of Atmospheric Science, Sandia National Laboratories, Albuquerque, NM, Spring 2017-present
+Principle Member of Technical Staff, Earth Systems Analysis, Sandia National Laboratories, Albuquerque, NM, Spring 2025-present
+  - Development, simulation, and analysis of the Department of Energy's Global Storm Resolving Model
+  - Quantifying uncertainties in the potential efficacy of cirrus cloud thinning for climate intervention using high resolution modeling
+  - Developing machine-learning-based techniques for 3-dimensional radiative transfer in high resolution models
+Senior Member of Technical Staff, Department of Atmospheric Science, Sandia National Laboratories, Albuquerque, NM, Spring 2017-present
   - Improving understanding of Arctic cloud processes and model biases through high resolution atmospheric modeling and observations.
   - Development and analysis of cutting-edge techniques for improved simulation in global climate models, including the use and development of super-parameterization and regionally-fined meshes.
 
@@ -28,18 +32,19 @@ Research Associate, Department of Chemistry, Western Washington University, Bell
 
 
 ### Research interests
-Dr. Hillman's research interests include the development, evaluation, and application of global atmosphere models, especially the representation of clouds and their interaction with radiant energy transfer in those models. Dr. Hillman is heavily involved in the development of the Department of Energy’s Energy Exascale Earth System Model (E3SM), including efforts to push the atmosphere component of the model to very high (cloud resolving) resolutions and preparing the model for next generation supercomputing architectures. Dr. Hillman obtained his Ph.D. from the University of Washington, where he worked under Dr. Thomas Ackerman and Dr. Roger Marchand on methods for evaluating clouds in global climate models using satellite instrument simulators to improve comparisons between models and satellite retrievals.
+Dr. Hillman's research interests include the development, evaluation, and application of global atmosphere models, especially the representation of clouds and their interaction with radiant energy transfer in those models. He is heavily involved in the development of the Department of Energy’s Energy Exascale Earth System Model (E3SM), including efforts to push the atmosphere component of the model to very high (cloud resolving) resolutions and preparing the model for next generation supercomputing architectures. He obtained his Ph.D. from the University of Washington, where he worked under Dr. Thomas Ackerman and Dr. Roger Marchand on methods for evaluating clouds in global climate models using satellite instrument simulators to improve comparisons between models and satellite retrievals.
 
 
 ### Technical Skills
 
-  - Development and analysis of a range of global climate models, including the GFDL global atmosphere model (AM2), the NCAR Community Earth System Model (CESM), the Super-Parameterized Com- munity Atmosphere Model (SP-CAM), and the DOE Accelerated Climate Model for Energy (ACME)
+  - Development and analysis of a range of global climate models, including the GFDL global atmosphere model (AM2), the NCAR Community Earth System Model (CESM), the Super-Parameterized Com- munity Atmosphere Model (SP-CAM), and the Energy Exascale Earth System Model (E3SM)
   - Expertise in the use of satellite instrument simulators for model evaluation
   - Development of analysis tools for end-user applications, including incorporation of new diagnostics into
 the NCAR Atmosphere Model Working Group (AMWG) diagnostics package
-  - Experience with a range of programming and analysis languages including Fortran (77 and 90), C, Python, Matlab, NCL, and UNIX shell scripting
-  - Analysis of geospatial datasets using the netCDF operators (NCO)
-  - Using git and github for software version control and project management • Working in high-performance computing environments
+  - Experience with a range of programming and analysis languages including Fortran, C and C++, Python, Matlab, NCL, and UNIX shell scripting
+  - Analysis of geospatial datasets using python, matplotlib, cartopy, pyNGL, and netCDF operators (NCO)
+  - Using git and github for software version control and project management
+  - Working in high-performance computing environments, including performance portability for both CPU and GPU-based architectures
 
 ### Teaching Experience
 Teaching Assistant, Atmospheric Radiative Transfer (ATM S 341), University of Washington, Seattle, WA, Spring 2014  
