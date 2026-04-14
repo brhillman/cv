@@ -61,6 +61,18 @@ Storm Peak Lab Cloud Property Validation Experiment (STORMVEx) Steamboat Springs
 
 ### Publications
 
+Chao, L., and Coauthors, 2026: Examining Cloud Feedback Components in the Simple Cloud-Resolving E3SM Atmosphere Model (SCREAM). J. Climate, 39, 2563–2578, https://doi.org/10.1175/JCLI-D-25-0656.1.
+
+Chao, L.-W., Zelinka, M. D., Terai, C. R., Beydoun, H., Hillman, B. R., Keen, N. D., et al. (2025). Evaluating mean state cloud properties in the simple cloud-resolving E3SM atmosphere model (SCREAM). Journal of Advances in Modeling Earth Systems, 17, e2025MS005133. https://doi.org/10.1029/2025MS005133
+
+Terai, C. R., Keen, N. D., Caldwell, P. M., Beydoun, H., Bogenschutz, P. A., Chao, L.-W., et al. (2025). Radiative, hydrologic, and circulation responses to warming in Cess-Potter simulations using the global 3.25-km SCREAM. Journal of Advances in Modeling Earth Systems, 17, e2024MS004930. https://doi.org/10.1029/2024MS004930
+
+Bercos-Hickey, E., Mahfouz, N., Keen, N. D., Patricola-DiRosario, C. M., Hannah, W. M., Beydoun, H., et al. (2025). Simulating Hurricane Katrina in the simple cloud-resolving E3SM atmosphere model v1. Journal of Advances in Modeling Earth Systems, 17, e2025MS005210. https://doi.org/10.1029/2025MS005210
+
+Hannah, W. M., Mahajan, S., Harrop, B. E., Liu, N., Peng, L., Pritchard, M. S., et al. (2025). Coupled climate simulations with E3SM-MMF. Journal of Advances in Modeling Earth Systems, 17, e2025MS004935. https://doi.org/10.1029/2025MS004935
+
+Huo, Y., Wang, H., Veneziani, M., Comeau, D., Osinski, R., Hillman, B. R., et al. (2025). E3SM-Arctic: Regionally refined coupled model for advanced understanding of Arctic systems interactions. Journal of Advances in Modeling Earth Systems, 17, e2024MS004726. https://doi.org/10.1029/2024MS004726
+
 Caldwell, P. M., Terai, C. R., Hillman, B., Keen, N. D., Bogenschutz, P., Lin, W., et al. (2021). Convection-permitting simulations with the E3SM global atmosphere model. Journal of Advances in Modeling Earth Systems, 13, e2021MS002544. https://doi.org/10.1029/2021MS002544.
 
 Wang, J., Fan, J., Feng, Z., Zhang, K., Roesler, E., Hillman, B., et al. (2021). Impact of a new cloud microphysics parameterization on the simulations of mesoscale convective systems in E3SM. Journal of Advances in Modeling Earth Systems, 13, e2021MS002628. https://doi.org/10.1029/2021MS002628
